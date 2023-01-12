@@ -1,9 +1,6 @@
-- 优化 Rosenbrock function，使用Armijo condition确定梯度下降的步长，关于
+- Optimize Rosenbrock function，use Armijo condition to determinate step of GD, about
  Rosenbrock function 详见https://en.wikipedia.org/wiki/Rosenbrock_function
- pic---------------
-
-
-
+![image](./image/opti.png)
 - Numpy is required, matplotlib and mpl_toolkits are needed for plotting image.
 - run  
 `python hw1.py`
